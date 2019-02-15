@@ -11,7 +11,9 @@ namespace lab1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World !");
-           
+            Console.WriteLine("Oh, hi, Mark!");
+            Console.WriteLine("lab1, zd3");
+            Console.ReadKey();
         }
     }
 }
